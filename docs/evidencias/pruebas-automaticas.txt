@@ -1,0 +1,17 @@
+AtteliA - validación realizada en entorno de preparación del proyecto
+Fecha de referencia: 2026-10-18 (Colombia)
+Comando: PYTHONPATH=backend pytest -q backend/tests
+Resultado:
+  ... [100%]
+  3 passed, 3 skipped in 0.64s
+
+Interpretación:
+  PASARON: 3 pruebas HTTP de registro/autenticación/sesión, historial y CRUD
+  documental con el servicio vectorial simulado.
+  OMITIDAS: 3 módulos de tests que requieren langgraph/langchain_chroma/
+  langchain_core no instalados en este entorno.
+  NO EVALUADO: invocación Ollama real, embeddings y carga en Chroma real,
+  compilación real de frontend con npm ci, despliegue nube, GitHub.
+
+Repetir todas las pruebas y capturar el resultado en Ubuntu tras instalar
+las dependencias y ejecutar ollama list, reindexar corpus y probar chatbot.

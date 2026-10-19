@@ -1,0 +1,735 @@
+ATTELIA — BASE DE CONOCIMIENTO — VOLUMEN 1
+Documento original: Attelia · Base de conocimiento de moda (Volumen 1) (1).docx
+Nota: las tablas se representan separando sus celdas con |.
+
+Attelia · Base de conocimiento de moda (Volumen 1)
+Documentación fundacional para el agente de moda Attelia: clásica en la base, aesthetic en la actualidad.
+0. Cómo usar este documento
+Este documento es la memoria de referencia de Attelia. Está pensado para que el agente pueda explicar, justificar y recomendar, no solo listar reglas. Cada tema sigue la misma estructura:
+Conceptos y definiciones: qué es y por qué importa.
+Explicación con prendas reales: cómo se ve en un armario concreto.
+Recomendaciones y excepciones: la regla y cuándo romperla.
+Preguntas frecuentes: lo que una persona podría preguntarle a Attelia, con respuestas modelo.
+Fuente y límites: de dónde viene la base y qué no se puede afirmar con seguridad.
+Convenciones de etiquetado
+[FUENTE]: idea que procede de un recurso universitario citado. Está reexpresada en español con palabras propias; no es una cita literal.
+[SÍNTESIS]: explicación o criterio elaborado por nosotros para hacer la idea más útil.
+[EJEMPLO]: caso concreto de prendas o combinaciones, con fines ilustrativos.
+[TENDENCIA]: observación sobre moda actual, de naturaleza cambiante. Siempre se presenta como orientación y no como verdad permanente.
+Fuentes base de este volumen
+[TABLA]
+Tema | Institución | Recurso
+Elementos del diseño | Utah State University Extension | https://extension.usu.edu/research/elements-of-design.pdf
+Principios del diseño | Utah State University Extension | https://extension.usu.edu/research/principles-of-design
+Fundamentos textiles | University of Georgia Extension | https://site.extension.uga.edu/textiles/
+Fibras y sus cuidados | University of Georgia Extension | https://site.extension.uga.edu/textiles/textile-basics/understand-your-fibers/
+[FIN DE TABLA]
+Reglas de comportamiento para Attelia
+Explica el porqué de cada recomendación (por ejemplo, "la línea vertical alarga visualmente"), no solo el qué.
+Ofrece dos o tres opciones cuando haya gustos de por medio; la moda no es una ciencia exacta.
+Distingue entre principio estable (equilibrio, proporción) y tendencia pasajera (un color de temporada).
+Nunca juzgues el cuerpo de una persona como "bueno" o "malo". Habla de efectos visuales y de objetivos ("si quieres crear una sensación de mayor altura...").
+Si falta información (talla, clima, ocasión, presupuesto), pregunta una sola cosa clave y avanza con una propuesta provisional.
+Cuando no pueda dar una respuesta segura (por ejemplo, el cuidado exacto de una prenda sin etiqueta), dilo y remite a la etiqueta de la prenda.
+1. Elementos del diseño en la ropa
+Los elementos del diseño son los ingredientes visuales con los que está hecha cualquier prenda o conjunto. Los cinco elementos clásicos en el diseño de indumentaria son color, línea, forma, silueta y textura. [FUENTE: USU Extension, adaptado]
+Una manera sencilla de recordarlo: el color es lo primero que se ve, la línea guía la mirada, la forma y la silueta dan la estructura y la textura aporta la sensación al tacto y a la vista.
+1.1 Color
+Definición. El color es la reacción del ojo a la luz que refleja una superficie. En moda, es el elemento más inmediato y emocional: comunica estado de ánimo, formalidad, temporada y personalidad antes que cualquier otro detalle.
+Tres dimensiones del color [SÍNTESIS basada en teoría del color estándar]:
+Tono (matiz): el "nombre" del color: rojo, azul, verde, amarillo.
+Valor: qué tan claro u oscuro es. Un azul marino tiene valor bajo; un celeste, valor alto.
+Intensidad (saturación o croma): qué tan puro o apagado es. Un rojo tomate es intenso; un terracota empolvado es de baja intensidad.
+Efectos del color en la percepción [FUENTE + SÍNTESIS]:
+Los colores claros tienden a hacer que una zona se perciba más grande; los oscuros tienden a reducirla visualmente.
+Los colores cálidos (rojos, naranjas, amarillos) se perciben como cercanos y enérgicos; los fríos (azules, verdes, violetas) se perciben como distantes y serenos.
+Los colores intensos atraen la atención; los neutros y apagados la relajan.
+[EJEMPLO]
+Un blazer negro sobre una camiseta blanca crea un contraste fuerte de valor: look marcado, formal, gráfico.
+Un conjunto monocromático beige (pantalón de lino arena, camiseta crema, cardigan camel) crea un efecto de valor cercano: suave, sofisticado, "silencioso".
+Una blusa verde esmeralda con pantalón negro pone toda la atención en la parte superior por la intensidad del color.
+La teoría del color completa (armonías, estaciones, subtonos) se desarrolla en la sección 3 de este documento.
+1.2 Línea
+Definición. La línea es el recorrido que sigue el ojo sobre la prenda. Se crea con costuras, bordes, pliegues, rayas, estampados, botonaduras, cuellos y dobladillos.
+Tipos de línea y su efecto visual [FUENTE, adaptado]:
+[TABLA]
+Línea | Efecto visual | Ejemplos de prendas
+Vertical | Alarga, estiliza, da sensación de altura y formalidad | Rayas verticales, hileras de botones, pantalón de pierna recta con pinzas, abrigo largo abierto
+Horizontal | Ensancha, da estabilidad, sensación de calma | Rayas marineras (breton), cinturón ancho, cuello barco, falda con volantes en capas
+Diagonal | Dinamismo, movimiento; puede alargar o ensanchar según el ángulo | Blusa cruzada o wrap, falda al sesgo, corte asimétrico, solapas inclinadas
+Curva | Suavidad, feminidad, fluidez | Cuello redondo, mangas globo, vestido de corte circular, volantes
+Quebrada o zigzag | Energía, impacto visual, atención | Estampado chevron, tejidos de espiga, cortes geométricos
+[FIN DE TABLA]
+Recomendaciones y excepciones [SÍNTESIS]:
+Si el objetivo es alargar la figura, las líneas verticales continuas (monocromía, abrigos largos abiertos, pantalones de talle alto) funcionan bien.
+Si se busca dar volumen o equilibrar, las líneas horizontales en una zona concreta pueden ayudar (por ejemplo, un cuello ancho para equilibrar unas caderas marcadas).
+Excepción: una raya vertical muy ancha o muy contrastada puede dejar de alargar y empezar a "cortar" la silueta en bloques. La escala de la línea importa tanto como su dirección.
+1.3 Forma
+Definición. La forma es el contorno de las partes de una prenda o de los espacios que esta crea: la geometría de una manga, un bolsillo, un cuello, un escote o un bloque de color.
+Familias de formas [SÍNTESIS]:
+Redondeadas: cuellos Peter Pan, bolsillos redondos, mangas abullonadas, bolsos tipo bucket. Transmiten dulzura y juego.
+Rectas y angulares: solapas marcadas, hombreras estructuradas, cuello camisero, bolsos rectangulares. Transmiten orden, autoridad y modernidad.
+Triangulares: escote en V, falda en A, pantalón tipo "campana". Dirigen la mirada hacia un punto.
+Orgánicas o irregulares: drapeados, asimetrías, cortes cut-out. Transmiten creatividad y carácter.
+[EJEMPLO] Un cuello camisero (recto) con una falda plisada (líneas verticales) y mocasines de punta redondeada mezcla orden y suavidad. El resultado es el típico "clásico con un toque amable".
+1.4 Silueta
+Definición. La silueta es el contorno exterior de todo el conjunto, lo que se vería si solo pudiéramos ver la sombra de la persona. Es el elemento que más define la "época" y el carácter de un look.
+Siluetas básicas en indumentaria [FUENTE, adaptado]:
+[TABLA]
+Silueta | Descripción | Ejemplos reales
+Recta o columna | Líneas verticales sin marcar la cintura | Vestido tipo shift, abrigo recto, pantalón recto con camisa larga
+Línea A | Estrecha arriba y se abre hacia abajo | Falda en A, vestido evasé, abrigo tipo swing
+Reloj de arena | Hombros y caderas equilibrados con cintura marcada | Vestido de talle ajustado, blusa + falda lápiz con cinturón, vestido cruzado
+Triángulo invertido | Volumen arriba, ajustado abajo | Blazer de hombros marcados con pantalón pitillo, mangas globo con falda lápiz
+Oversize o en bloque | Volumen generoso, formas amplias | Blazer holgado con jeans wide leg, camisa grande con pantalón baggy
+Imperio | Cintura marcada justo bajo el busto | Vestido estilo imperio, blusa con costura alta
+[FIN DE TABLA]
+Reglas de equilibrio de siluetas [SÍNTESIS]:
+Volumen arriba, ajuste abajo (o al revés). Combinar dos volúmenes grandes sin un punto de ajuste suele leerse como "sin forma".
+La cintura marcada (con cinturón, costura, corte o un dobladillo de camisa dentro del pantalón) es la herramienta más rápida para dar estructura a una silueta amplia.
+Excepción actual [TENDENCIA]: el total oversize y las siluetas relajadas están muy presentes en el vestir actual. Funcionan mejor cuando hay un punto de definición: zapatos con estructura, un accesorio fuerte, un cuello marcado, o un tejido de buena caída.
+1.5 Textura
+Definición. La textura es la apariencia y sensación de la superficie de un tejido: suave, rugosa, brillante, mate, rígida, fluida. Depende de la fibra, del tipo de hilado, del tejido o tricotado y del acabado.
+Efectos de la textura [FUENTE, adaptado]:
+Las texturas brillantes reflejan luz y aumentan visualmente el volumen (satén, lamé, charol).
+Las texturas mates absorben luz y tienden a disimular (algodón, lana plana, crepé).
+Las texturas voluminosas (bouclé, punto grueso, pana gruesa) añaden volumen.
+Las texturas finas y fluidas (seda, viscosa, gasa) siguen el cuerpo y añaden movimiento.
+Las texturas rígidas (denim grueso, gabardina, popelina almidonada) sostienen forma y estructura.
+[EJEMPLO]
+Look táctil monocromo: jersey de punto trenzado crema + pantalón de lana fría crema + abrigo de paño crema. Mismo color, tres texturas: da riqueza sin añadir un solo color nuevo.
+Contraste de texturas: camiseta de algodón sencilla + falda de satén + chaqueta de cuero. La mezcla de lo rústico con lo fluido es un clásico del estilo contemporáneo.
+1.6 Preguntas frecuentes (elementos)
+"¿Qué me hace parecer más alta?" Respuesta modelo: "Hay tres herramientas: color continuo (mismo tono o tonos muy cercanos de pies a cabeza), líneas verticales (rayas, abrigos largos abiertos, pantalones rectos de talle alto) y calzado que prolongue la pierna (mismo tono que el pantalón, o punta alargada). No es obligatorio: si prefieres cortar la silueta con contraste, también es una elección válida de estilo."
+"¿Las rayas horizontales engordan?" Respuesta modelo: "No de forma automática. Una raya horizontal ancha y contrastada tiende a ensanchar; una raya fina y de bajo contraste, mucho menos. Además influyen el tejido y el corte. Si te gustan, elige rayas finas, tejidos con caída y una prenda que no quede ajustada en exceso."
+"¿Cómo mezclo texturas sin que parezca desordenado?" Respuesta modelo: "Mantén una paleta de color corta (dos o tres tonos) y varía la textura. Una regla práctica: una textura protagonista, una de apoyo, y una tercera discreta."
+1.7 Fuente y límites
+Base: guía Elements of Design de Utah State University Extension (versión web y PDF).
+Límite: los efectos visuales (alargar, ensanchar, disimular) son tendencias de percepción, no leyes absolutas. Dependen de la escala, la proporción individual, la iluminación y la preferencia personal. Attelia debe presentarlos como opciones y no como correcciones obligatorias.
+2. Principios del diseño en la ropa
+Si los elementos son los ingredientes, los principios son la receta: las reglas de organización que determinan si un conjunto se ve armonioso, interesante o descompensado. Los principios más usados en indumentaria son equilibrio, proporción, énfasis, ritmo y armonía (unidad). [FUENTE: USU Extension, adaptado]
+2.1 Equilibrio
+Definición. El equilibrio es la sensación de que el peso visual del conjunto está repartido de forma estable. Puede ser:
+Simétrico (formal): ambos lados se ven iguales. Transmite orden, tradición, calma. Ejemplo: chaqueta cruzada con botones simétricos, camisa con botonadura central y bolsillos gemelos.
+Asimétrico (informal): los lados son diferentes pero compensan su peso visual. Transmite dinamismo y modernidad. Ejemplo: vestido de un solo hombro con collar largo en el lado opuesto; cuello asimétrico con bolso grande al lado contrario.
+Radial: los elementos parten de un punto central. Ejemplo: un vestido con pliegues que irradian desde la cintura.
+Recomendación [SÍNTESIS]: si un conjunto "se siente raro" y no sabes por qué, revisa si todo el peso visual (color intenso, volumen, brillo) está concentrado en un solo lado o zona.
+2.2 Proporción
+Definición. La proporción es la relación de tamaño entre las partes de un conjunto y entre ellas y el cuerpo. Una prenda no es "grande" o "pequeña" en abstracto: lo es respecto a otra y respecto a quien la lleva.
+Proporciones que se usan mucho en la práctica [SÍNTESIS]:
+Regla 1/3 – 2/3: dividir el cuerpo visualmente en un tercio y dos tercios resulta más dinámico que dividirlo por la mitad. Ejemplo: top corto o metido por dentro (un tercio) + pantalón largo de talle alto (dos tercios).
+Volumen arriba, ajustado abajo y viceversa (ver sección 1.4).
+Largo del abrigo respecto a la prenda de debajo: que el abrigo sea claramente más largo o claramente más corto que el vestido o la falda; el "casi igual" suele verse como un error.
+Escala de los estampados respecto al cuerpo y a la prenda: un estampado enorme sobre una prenda pequeña se corta y pierde sentido.
+[EJEMPLO] Un oversized blazer con un top ajustado y pantalón recto de talle alto. El volumen superior se compensa con el ajuste del interior y con la línea larga de la pierna.
+2.3 Énfasis (punto focal)
+Definición. El énfasis es el lugar del conjunto al que se dirige la mirada primero. Un look bien diseñado suele tener un solo punto focal claro.
+Cómo se crea el énfasis [FUENTE + SÍNTESIS]:
+Contraste de color (un accesorio rojo sobre un look neutro).
+Contraste de textura (una chaqueta de lentejuelas sobre jeans y camiseta).
+Detalle inusual (escote, manga, bordado, botones grandes).
+Accesorio protagonista (bolso, cinturón, joya, zapatos).
+Regla práctica: si tienes varios puntos focales con la misma fuerza (estampado fuerte + collar grande + bolso llamativo + zapatos de color), se compiten entre sí y el look se vuelve confuso. Elige uno y deja que los demás apoyen en voz baja.
+Excepción [TENDENCIA]: el maximalismo actual rompe esta regla deliberadamente. Para hacerlo bien se necesita una paleta común o un hilo conductor (todo en tonos cálidos, todo en estampados de la misma familia).
+2.4 Ritmo
+Definición. El ritmo es el movimiento que recorre el ojo a través del conjunto al repetirse, alternarse o graduarse un elemento. Es lo que hace que un look se sienta "fluido".
+Maneras de crear ritmo [FUENTE, adaptado]:
+Repetición: botones iguales en la blusa y en el bolso; mismo color en el cinturón y en los zapatos.
+Gradación: tonos que van del claro al oscuro (un degradé de azules de la camisa al pantalón).
+Alternancia: rayas anchas y finas que se turnan; una prenda lisa, una estampada, una lisa.
+Línea continua: una costura o borde que guía la vista a lo largo de la prenda.
+[EJEMPLO] Un conjunto de cuatro prendas en una gradación de verdes (verde salvia, verde oliva, verde musgo, verde bosque) con un cinturón y unos pendientes en dorado envejecido que repiten el mismo tono. El ojo recorre el look sin saltos.
+2.5 Armonía (unidad)
+Definición. La armonía es el resultado de que todos los elementos y principios trabajen hacia una misma idea. Es la sensación de "esto va junto".
+Cómo lograrla [SÍNTESIS]:
+Una idea guía clara: "minimalista", "romántico", "urbano", "vintage".
+Una paleta limitada (generalmente de dos a cuatro colores).
+Coherencia de formalidad: no mezclar prendas de niveles muy distintos sin intención.
+Variedad controlada: un poco de contraste evita el aburrimiento; demasiado destruye la unidad.
+2.6 Tabla resumen para Attelia
+[TABLA]
+Principio | Pregunta que Attelia puede hacerse | Señal de que falta
+Equilibrio | ¿Está repartido el peso visual? | El look "tira" hacia un lado o hacia arriba
+Proporción | ¿Las partes se relacionan bien entre sí? | Dos volúmenes iguales, largos "casi iguales"
+Énfasis | ¿Hay un punto focal claro? | Varios elementos compitiendo
+Ritmo | ¿La mirada fluye? | Se siente entrecortado, sin repetición
+Armonía | ¿Todo cuenta la misma historia? | Mezcla confusa de estilos o formalidades
+[FIN DE TABLA]
+2.7 Preguntas frecuentes (principios)
+"Mi outfit se ve raro pero no sé por qué." Respuesta modelo: "Vamos a revisarlo por pasos: ¿hay un punto focal claro?, ¿los volúmenes se compensan?, ¿los largos se relacionan entre sí?, ¿hay demasiados colores o estampados distintos? Cuéntame las prendas y te digo qué ajustaría primero."
+"¿Cómo uso un accesorio llamativo sin que se vea exagerado?" Respuesta modelo: "Hazlo protagonista y simplifica el resto. Si el bolso es vistoso, opta por joyería discreta y una paleta calmada en la ropa."
+"¿Puedo mezclar estampados?" Respuesta modelo: "Sí, con tres anclas: un color en común, escalas distintas (uno grande y otro pequeño) y un neutro que dé descanso (una prenda lisa)."
+2.8 Fuente y límites
+Base: guía Principles of Design de Utah State University Extension.
+Límite: los principios son una herramienta de análisis, no un reglamento. Muchos looks memorables rompen alguno a propósito. Attelia debe explicar qué principio se está rompiendo y con qué intención, para que la persona decida con criterio.
+3. Teoría del color aplicada a la ropa
+El color es el elemento más poderoso y también el más malentendido. Esta sección convierte la teoría en herramientas prácticas: cómo describir un color con precisión, cómo combinarlos con criterio y cómo decidir qué colores favorecen a una persona sin caer en dogmas. [SÍNTESIS apoyada en la sección de color de USU Extension y en teoría del color estándar]
+3.1 El vocabulario preciso: tono, valor e intensidad
+Para que Attelia hable de color con exactitud, debe separar tres ideas que en el lenguaje cotidiano se mezclan:
+[TABLA]
+Dimensión | Pregunta que responde | Ejemplo comparativo
+Tono (matiz) | ¿De qué "familia" es? | Rojo, azul, verde, amarillo, violeta, naranja
+Valor | ¿Qué tan claro u oscuro es? | Rosa pálido (alto) vs. burdeos (bajo): ambos son rojos
+Intensidad | ¿Qué tan puro o apagado es? | Rojo cereza (intenso) vs. rojo ladrillo (apagado)
+[FIN DE TABLA]
+Por qué importa. Dos prendas "azules" pueden ser incompatibles (un azul eléctrico y un azul grisáceo) o perfectas juntas (un azul marino y un celeste) según sus valores e intensidades. Cuando una persona dice "no sé por qué estos dos colores no combinan", casi siempre la respuesta está en que chocan en intensidad (uno vibrante y otro apagado) o son demasiado parecidos en valor sin un contraste que los separe.
+Vocabulario complementario [SÍNTESIS]:
+Tinte: el color mezclado con blanco (más claro): rosa, celeste, lavanda.
+Sombra: el color mezclado con negro (más oscuro): burdeos, verde bosque, azul noche.
+Tono (en sentido técnico): el color mezclado con gris (más apagado): terracota, verde salvia, malva.
+Neutros: negro, blanco, gris, beige, camel, marrón, azul marino, crema. No compiten con otros colores y sirven de base.
+3.2 La rueda de color y las armonías
+La rueda de color ordena los tonos en círculo. Con ella se describen las armonías cromáticas: fórmulas de combinación que suelen funcionar.
+Colores primarios, secundarios y terciarios. Los primarios (rojo, amarillo, azul) no se obtienen mezclando otros. Los secundarios (naranja, verde, violeta) salen de mezclar dos primarios. Los terciarios nacen de mezclar un primario con un secundario vecino (rojo anaranjado, azul verdoso, etc.).
+Las armonías principales:
+1. Monocromática. Un solo tono en distintos valores e intensidades.
+Efecto: elegante, estilizado, calmado. Alarga la figura.
+Ejemplo: camisa celeste, pantalón azul medio, abrigo azul marino, zapatos azul noche.
+Riesgo: puede aburrir. Se resuelve con variación de textura (lino + lana + cuero).
+2. Análoga. Tonos vecinos en la rueda (por ejemplo, amarillo, amarillo verdoso y verde).
+Efecto: suave, natural, fluida. Es la armonía "más fácil" porque los tonos ya se parecen.
+Ejemplo: blusa mostaza, pantalón verde oliva, bolso color musgo.
+3. Complementaria. Tonos opuestos en la rueda (azul y naranja, rojo y verde, amarillo y violeta).
+Efecto: contraste máximo y energía. Cada color realza al otro.
+Ejemplo: jeans azules con un jersey terracota; abrigo violeta con bufanda mostaza.
+Recomendación: no usar los dos en igual cantidad ni con igual intensidad. Una proporción útil es 70 % / 30 % o incluso 80 / 20, y suavizar uno de los dos.
+4. Complementaria dividida. Un color y los dos vecinos de su complementario.
+Efecto: contraste menos agresivo que la complementaria pura.
+Ejemplo: azul con naranja rojizo y naranja amarillento.
+5. Triádica. Tres tonos equidistantes en la rueda (rojo, amarillo, azul; o naranja, verde, violeta).
+Efecto: vibrante, lúdica, de alto impacto.
+Recomendación: un color domina, los otros dos acentúan. Triádicas apagadas (mostaza, verde pino, burdeos) se ven más sofisticadas que las puras.
+6. Neutra con acento. Base neutra y un solo toque de color.
+Efecto: la más versátil y la más usada en armarios modernos.
+Ejemplo: look completo en beige, crema y camel con bolso rojo.
+3.3 La regla de proporción 60-30-10
+Herramienta práctica tomada del diseño de interiores y muy útil en moda [SÍNTESIS]:
+60 % color dominante (suele ser el neutro o la prenda más grande).
+30 % color secundario (la segunda prenda).
+10 % acento (accesorios, detalle).
+[EJEMPLO] Pantalón y abrigo en camel (60 %), jersey crema (30 %), bufanda y bolso en verde botella (10 %).
+3.4 Temperatura del color
+Cálidos: rojos, naranjas, amarillos, y neutros con base amarilla (crema, camel, caramelo, beige dorado).
+Fríos: azules, verdes azulados, violetas, y neutros con base azulada (blanco puro, gris frío, azul marino).
+Regla útil [SÍNTESIS]: mezclar temperaturas funciona mejor si se hace con intención. Un look "cálido con un toque frío" (marrón, camel y un detalle azul petróleo) se ve rico; un look donde cada prenda tiene una temperatura distinta sin criterio se ve desordenado.
+3.5 Contraste: de valor y de intensidad
+Alto contraste de valor (blanco y negro; marfil y azul marino): look marcado, gráfico, formal. Corta la silueta.
+Bajo contraste de valor (crema y beige; gris perla y gris medio): look suave y envolvente. Estiliza.
+Alto contraste de intensidad (rosa fucsia con gris piedra): el color intenso se vuelve protagonista.
+Bajo contraste de intensidad (verde salvia con malva): paleta serena, "empolvada", propia de estéticas suaves.
+3.5 bis. Cómo combinar colores paso a paso
+Procedimiento que Attelia puede aplicar ante un "¿qué le combino a esta prenda?":
+Identificar el color de la prenda ancla en tono, valor e intensidad.
+Decidir el efecto buscado: ¿calma (análoga o monocromática), energía (complementaria), sofisticación (neutros con un acento apagado)?
+Elegir la base: un neutro que le acompañe (blanco roto, beige, gris, marino).
+Añadir un acento con la regla 60-30-10.
+Comprobar textura y proporción: ¿hay algo brillante y algo mate?, ¿el color más intenso está en el punto focal deseado?
+[EJEMPLO] Prenda ancla: pantalón verde oliva (tono verde, valor medio-bajo, intensidad baja). Efecto buscado: sofisticación cotidiana. Base: camiseta crema y trench beige. Acento: bolso burdeos y pendientes dorados. Resultado: paleta tierra, cálida y coherente.
+3.6 Combinaciones clásicas que casi nunca fallan
+[TABLA]
+Combinación | Por qué funciona | Ejemplo de prendas
+Azul marino + blanco roto | Contraste de valor limpio y atemporal | Blazer marino, camisa blanca, pantalón crema
+Camel + negro | Cálido profundo con base neutra fuerte | Abrigo camel sobre jersey negro
+Gris + rosa empolvado | Neutro frío suavizado por un tono tierno | Jersey gris, falda rosa palo
+Verde oliva + crema | Análoga cálida, natural | Pantalón cargo oliva, top crema
+Burdeos + beige | Intensidad profunda sobre neutro suave | Bolso burdeos con gabardina beige
+Marrón chocolate + azul claro | Contraste de temperatura equilibrado | Camisa celeste, chaqueta chocolate
+Negro + blanco + un solo acento rojo | Alto contraste con un punto focal | Total look blanco y negro con labios o bolso rojo
+[FIN DE TABLA]
+3.7 Colorimetría personal (análisis estacional)
+La colorimetría personal busca identificar qué colores armonizan con el subtono de la piel, el color de los ojos y el cabello. Se popularizó con el sistema de las cuatro estaciones (primavera, verano, otoño e invierno) y hoy existen versiones con 12 o más subtipos (por ejemplo, "verano suave" o "invierno profundo").
+Las ideas centrales [SÍNTESIS]:
+Subtono cálido: la piel tiene base dorada o melocotón. Suelen favorecer tonos cálidos y tierra.
+Subtono frío: la piel tiene base rosada o azulada. Suelen favorecer tonos fríos y rosados.
+Subtono neutro: equilibrio entre ambos; hay más flexibilidad.
+Ejes complementarios del análisis: claro/oscuro (valor), brillante/suave (intensidad).
+Pruebas informales que se suelen sugerir (solo orientativas): observar las venas de la muñeca con luz natural, comparar joyas doradas y plateadas, o poner telas de colores cerca del rostro frente a un espejo con luz de día.
+Límites importantes (obligatorio para Attelia):
+La colorimetría personal es una herramienta popular de asesoría de imagen, no una ciencia exacta. Los resultados varían según la iluminación, el maquillaje, el bronceado, el tinte de cabello y quién hace el análisis.
+No debe presentarse como regla absoluta. Una persona puede usar colores "fuera de su paleta" y verse bien si ajusta la distancia al rostro (por ejemplo, usando el color "difícil" en pantalón o falda en lugar de cerca del rostro).
+Attelia no puede determinar el subtono desde una descripción sin imagen fiable. Debe proponer una prueba de luz natural o sugerir una asesoría presencial.
+3.8 Color y formalidad, ocasión y mensaje
+Negro, azul marino, gris carbón: formalidad y autoridad.
+Blanco y crema: limpieza, ligereza, verano.
+Rojo: fuerza, atención, celebración.
+Rosa suave y lavanda: ternura, romanticismo.
+Verde oliva, terracota y mostaza: estética natural y otoñal.
+Colores pastel: primavera, bodas de día, estética delicada.
+Atención cultural [LÍMITE]: el significado de los colores varía entre culturas y contextos (por ejemplo, el blanco en bodas o el negro en luto). Attelia debe preguntar el contexto cuando una ocasión sea ceremonial.
+3.9 Preguntas frecuentes (color)
+"¿Puedo combinar negro con azul marino?" Respuesta modelo: "Sí, es una combinación elegante si hay una diferencia clara de textura o de tono. Si ambos son mates y muy oscuros, la diferencia casi no se nota y puede parecer un error. Lo que mejor funciona es un negro y un marino de tejidos distintos, o un marino con un detalle claro (camisa o accesorio)."
+"¿Qué color me favorece si tengo la piel clara/oscura?" Respuesta modelo: "El tono de piel por sí solo no decide. Lo que más influye es el subtono (cálido, frío, neutro) y el contraste natural entre piel, ojos y cabello. Si me cuentas cómo se ven tus venas y qué joyas te gustan más, te doy una primera hipótesis, aunque la confirmación mejor es probar telas con luz natural."
+"¿Cuántos colores puedo usar en un outfit?" Respuesta modelo: "Una guía práctica es tres colores como máximo, contando los neutros como uno solo. Más colores pueden funcionar, pero necesitan un hilo conductor (mismo tono apagado, misma intensidad)."
+"¿Con qué combino un color muy llamativo?" Respuesta modelo: "Con neutros que lo dejen respirar: blanco roto, beige, gris o marino. Y deja que el color llamativo sea el protagonista: un solo elemento (blusa, abrigo o bolso)."
+3.10 Fuente y límites
+Base: sección de color de USU Extension y teoría del color estándar (rueda, armonías, tono/valor/intensidad).
+Límites: las armonías son fórmulas de partida, no reglas inviolables. Los colores se ven distinto según la luz, la pantalla y el tejido; Attelia debe advertir que una recomendación hecha a partir de una descripción o foto puede no coincidir con el color real de la prenda.
+4. Fibras textiles: qué son y cómo se comportan
+La fibra es la materia prima de la tela. Conocerla permite a Attelia responder preguntas prácticas: ¿esta prenda abriga?, ¿se arruga?, ¿encoge?, ¿es buena para el calor?, ¿cómo la lavo? [FUENTE: University of Georgia Extension, módulos de fundamentos textiles y fibras, reexpresado; ampliado con SÍNTESIS]
+4.1 Clasificación básica
+[TABLA]
+Grupo | Origen | Ejemplos
+Naturales de origen vegetal (celulósicas) | Plantas | Algodón, lino, cáñamo, yute
+Naturales de origen animal (proteicas) | Animales | Lana, seda, cachemir, mohair, alpaca
+Regeneradas (artificiales) | Celulosa vegetal procesada químicamente | Viscosa/rayón, modal, liocel (Tencel)
+Sintéticas | Derivadas del petróleo y procesos químicos | Poliéster, nailon (poliamida), acrílico, elastano (licra/spandex)
+[FIN DE TABLA]
+4.2 Fichas por fibra
+Algodón
+Cualidades: suave, transpirable, absorbente, resistente al lavado, hipoalergénico para la mayoría.
+Limitaciones: se arruga con facilidad, puede encoger en el primer lavado, tarda en secar.
+Prendas típicas: camisetas, camisas, jeans (denim), ropa interior, ropa de verano.
+Cuidado general: aguanta lavado a máquina; el calor alto puede encoger. Revisar siempre la etiqueta.
+Lino
+Cualidades: muy fresco, transpirable, absorbente, se vuelve más suave con el uso, aspecto natural y elegante.
+Limitaciones: se arruga mucho (parte de su encanto), puede ser rígido al principio.
+Prendas típicas: camisas de verano, pantalones fluidos, vestidos, trajes veraniegos.
+Cuidado general: planchar húmedo y a temperatura alta suele ser lo más eficaz; muchas prendas piden lavado delicado.
+Seda
+Cualidades: brillo natural, ligereza, caída fluida, buena sensación sobre la piel, regula la temperatura.
+Limitaciones: delicada, sensible al sudor, a la luz solar prolongada y al agua (puede marcar), cara.
+Prendas típicas: blusas, pañuelos, vestidos fluidos, lencería.
+Cuidado general: muchas prendas piden limpieza en seco o lavado a mano con detergente suave; evitar retorcer.
+Lana
+Cualidades: abriga, aísla incluso húmeda, elástica, resiste las arrugas, absorbe humedad sin sentirse mojada.
+Limitaciones: puede encoger y afieltrarse con calor y fricción, puede picar según el grosor de la fibra, atrae polillas.
+Prendas típicas: jerséis, abrigos, trajes, bufandas, calcetines.
+Cuidado general: lavado delicado en frío o a mano, secado en plano, evitar el calor fuerte. Algunas prendas son "lavables a máquina" (tratamiento superwash), pero la etiqueta manda.
+Cachemir (cashmere)
+Cualidades: extremadamente suave y cálido para su peso, lujo cotidiano.
+Limitaciones: delicado, genera bolitas (pilling) con facilidad, caro.
+Cuidado general: lavado a mano muy suave, secado en plano, guardar doblado, no colgado.
+Poliéster
+Cualidades: resistente, seca rápido, mantiene la forma, no se arruga fácilmente, económico.
+Limitaciones: menos transpirable, puede retener olores, acumula electricidad estática, sensación de calor.
+Prendas típicas: ropa deportiva, abrigos acolchados, forros, mezclas con algodón o lana.
+Cuidado general: aguanta lavado a máquina; el calor alto puede dañarlo o marcarlo.
+Nailon (poliamida)
+Cualidades: muy resistente, ligero, elástico, seca rápido.
+Prendas típicas: medias, ropa deportiva, cortavientos, bolsos técnicos.
+Acrílico
+Cualidades: imita la lana, ligero y barato, mantiene el color.
+Limitaciones: menos transpirable, tiende a formar bolitas, puede acumular estática.
+Elastano (licra/spandex)
+Cualidades: elasticidad y recuperación excepcionales. Casi siempre aparece en mezclas pequeñas (2 a 5 %) para dar comodidad.
+Limitaciones: se degrada con calor alto, cloro y sudor con el tiempo.
+Viscosa / rayón
+Cualidades: suave, caída fluida parecida a la seda, económica, buena sensación sobre la piel.
+Limitaciones: débil cuando está húmeda, puede encoger bastante y arrugarse.
+Cuidado: seguir muy de cerca la etiqueta; muchas prendas piden lavado delicado o en seco.
+Modal y liocel (Tencel)
+Cualidades: suaves, absorbentes, caída agradable; el liocel suele ser más resistente y con proceso más cerrado.
+Prendas típicas: camisetas, ropa de cama, vestidos fluidos, denim suave.
+4.3 Tabla comparativa rápida
+[TABLA]
+Fibra | Abriga | Transpira | Arruga | Encoge | Delicadeza
+Algodón | Media | Alta | Alta | Media | Baja
+Lino | Baja | Muy alta | Muy alta | Baja-media | Media
+Seda | Media | Alta | Media | Baja | Alta
+Lana | Alta | Media-alta | Baja | Alta | Media-alta
+Cachemir | Muy alta | Media-alta | Baja | Alta | Alta
+Poliéster | Media | Baja | Muy baja | Muy baja | Baja
+Viscosa | Baja | Media | Alta | Alta | Alta
+Elastano | — | — | — | — | Media (se degrada con calor)
+[FIN DE TABLA]
+Los valores son aproximaciones generales para guiar a Attelia; el comportamiento real depende del tejido, el grosor y las mezclas.
+4.4 Mezclas de fibras
+La mayoría de las prendas actuales son mezclas. Se combinan fibras para sumar ventajas y compensar defectos.
+Algodón + poliéster: menos arrugas y secado más rápido que el algodón puro.
+Lana + poliamida: más resistencia al desgaste en jerséis y calcetines.
+Algodón + elastano: comodidad en jeans y camisetas ajustadas.
+Lino + viscosa o algodón: conserva el aspecto del lino con menos arrugas.
+Regla para Attelia: el porcentaje importa. Una prenda de "lana" con 20 % de lana y 80 % acrílico se comportará más como acrílico que como lana. La fibra mayoritaria manda, pero no es la única que cuenta.
+4.5 Qué fibra para qué situación
+[TABLA]
+Situación | Opciones recomendables | A tener en cuenta
+Calor y humedad | Lino, algodón fino, liocel | Evitar poliéster grueso y acrílico
+Frío seco | Lana, cachemir, forros polares | Capas: base transpirable + abrigo
+Ropa deportiva | Poliéster, nailon, mezclas con elastano | Lavar pronto para evitar olores
+Oficina formal | Lana fría, algodón popelina, mezclas con poco elastano | Planchado y caída
+Piel sensible | Algodón, lino, seda, modal | Evitar lana áspera y sintéticos rígidos
+Viaje | Poliéster, mezclas antiarrugas, punto de lana merino | Peso y facilidad de lavado
+[FIN DE TABLA]
+4.6 Preguntas frecuentes (fibras)
+"¿Qué tela es mejor para el calor?" Respuesta modelo: "Las más transpirables: lino, algodón ligero y liocel. Evita poliéster y acrílico gruesos, porque retienen calor y humedad. Si te preocupan las arrugas, busca lino mezclado con viscosa o algodón."
+"¿Por qué mi jersey hace bolitas?" Respuesta modelo: "Las bolitas (pilling) aparecen por fricción en fibras cortas o sueltas. Es común en acrílico, lana fina, cachemir y mezclas con poliéster. No siempre indica mala calidad: se puede retirar con un quitapelusas o peine de ropa. Se reduce lavando del revés, en delicado y evitando el roce con velcro o bolsos."
+"¿Qué significa 'viscosa' en la etiqueta?" Respuesta modelo: "Es una fibra regenerada hecha de celulosa vegetal. Se siente suave y cae como la seda, pero es débil cuando está mojada y puede encoger. Lávala con cuidado y según la etiqueta."
+"¿Es mejor la lana o el poliéster para el frío?" Respuesta modelo: "Depende del uso. La lana abriga, transpira y aísla incluso húmeda; es mejor para el día a día frío y para prendas que quieres que duren. El poliéster (forros polares, acolchados) abriga bien y seca rápido, y es práctico para deporte y clima húmedo, pero transpira menos."
+4.7 Fuente y límites
+Base: University of Georgia Extension, recursos de Textile Basics y Understand Your Fibers.
+Límites: las propiedades indicadas son generales. El comportamiento depende del hilado, el tejido, el acabado, el tinte y las mezclas. Attelia no puede garantizar cómo se comportará una prenda concreta sin ver su etiqueta; ante dudas de composición, debe pedir la etiqueta o recomendar prueba en una zona discreta.
+5. Cuidado de prendas
+Cuidar bien la ropa es parte de vestir bien: una prenda de calidad media bien mantenida se ve mejor que una prenda cara descuidada. Esta sección explica el sistema de cuidado y cómo resolver los problemas más frecuentes. [FUENTE: University of Georgia Extension, recursos de cuidado textil, reexpresado; ampliado con SÍNTESIS]
+5.1 La regla número uno: la etiqueta manda
+La etiqueta de cuidado es la instrucción del fabricante para esa prenda concreta. Attelia debe priorizarla siempre sobre cualquier consejo general. Si la persona no tiene la etiqueta (se cortó, se borró), Attelia debe decirlo con claridad: "Sin etiqueta no puedo darte una instrucción segura; te doy la opción más cautelosa y una prueba en una zona discreta."
+5.2 Símbolos de cuidado (guía general)
+[TABLA]
+Símbolo (descripción) | Significado general
+Cubeta con agua | Lavado; el número indica la temperatura máxima en °C
+Cubeta con una mano | Lavado a mano únicamente
+Cubeta tachada | No lavar con agua
+Triángulo vacío | Se puede usar blanqueador
+Triángulo tachado | No usar blanqueador
+Cuadrado con círculo | Secadora permitida (puntos indican temperatura)
+Cuadrado con una línea horizontal | Secar en plano
+Cuadrado con curva superior | Secar colgado
+Plancha (con puntos) | Planchado; los puntos indican temperatura (1 baja, 3 alta)
+Círculo | Limpieza en seco profesional
+[FIN DE TABLA]
+Los símbolos siguen un sistema internacional, pero pueden variar ligeramente según la región. Ante dudas, Attelia debe pedir una descripción del símbolo y confirmarlo con cuidado.
+5.3 Clasificación antes de lavar
+Separar por color: blancos, claros, oscuros, colores intensos nuevos (que pueden desteñir).
+Separar por tipo de tejido: pesados (jeans, toallas) aparte de delicados (blusas, punto fino).
+Separar por nivel de suciedad: ropa deportiva o muy sucia aparte.
+Revisar bolsillos, cierres y botones: cerrar cremalleras, abrochar broches.
+Voltear al revés las prendas delicadas, estampadas o de color oscuro para reducir fricción y desgaste del color.
+5.4 Lavado
+Temperatura: el agua fría (20–30 °C) conserva mejor color y fibras; el agua caliente limpia más, pero puede encoger, desteñir o dañar. Usa la temperatura máxima de la etiqueta, no más.
+Detergente: la cantidad exagerada deja residuos y apaga los colores. Un detergente suave o específico para delicados es preferible para lana, seda y punto fino.
+Carga: no llenar el tambor por completo; la ropa necesita espacio para moverse y enjuagarse.
+Ciclo: elegir delicado para prendas frágiles, y centrifugado bajo para evitar deformaciones.
+Prendas nuevas de color intenso: lavar aparte las primeras veces. Una prueba útil: mojar una zona oculta con agua tibia y presionar sobre un paño blanco; si deja color, destiñe.
+Lavado a mano (paso a paso):
+Llenar un recipiente con agua fría o tibia y una pequeña cantidad de detergente suave.
+Sumergir la prenda y presionar suavemente, sin frotar ni retorcer.
+Dejar actuar unos minutos.
+Enjuagar con agua limpia del mismo tono de temperatura hasta eliminar el jabón.
+Escurrir presionando entre toallas limpias (no retorcer).
+Secar según la fibra (ver 5.5).
+5.5 Secado
+[TABLA]
+Fibra o prenda | Secado recomendado | Evitar
+Algodón | Secadora a calor medio o al aire | Calor alto repetido (encoge y desgasta)
+Lino | Al aire, retirar húmedo y planchar | Secadora fuerte (arruga y fija pliegues)
+Lana y cachemir | En plano, sobre una toalla, lejos del sol directo | Colgar mojado (deforma), secadora
+Seda | A la sombra, colgada con cuidado o en plano | Sol directo, calor, retorcer
+Sintéticos (poliéster, nailon) | Al aire o secadora a calor bajo | Calor alto (marcas y daño)
+Prendas con elastano | Al aire o calor bajo | Calor alto (degrada la elasticidad)
+Denim | Al aire del revés | Secadora muy caliente (encoge y se debilita)
+[FIN DE TABLA]
+5.6 Planchado y vaporizado
+Orden por temperatura (de menor a mayor): sintéticos y seda → lana → algodón → lino.
+Del revés para prendas oscuras, con brillo o con bordados.
+Paño intermedio para seda, lana y tejidos delicados.
+Vaporizador: útil para refrescar abrigos, blazers y vestidos sin presión directa. Funciona muy bien con lana y poliéster; con seda conviene probar antes en una zona discreta.
+5.7 Almacenamiento
+Doblado: jerséis y punto (el colgador los deforma por el peso en los hombros).
+Colgado: blazers, abrigos, camisas, vestidos; con percha adecuada (anchas y acolchadas para prendas pesadas).
+Aire y limpieza: guardar prendas limpias; las manchas invisibles atraen insectos y se fijan con el tiempo.
+Fundas transpirables: de algodón o tela, no de plástico cerrado, que atrapa humedad.
+Protección contra polillas: cedro, lavanda y limpieza regular del armario; la lana y el cachemir son los más vulnerables.
+Cambio de temporada: guardar lo que no se usa limpio, seco y con aire.
+5.8 Manchas: orientación general
+Actuar rápido y no frotar (extiende la mancha y daña la fibra). Primero se absorbe, luego se trata.
+[TABLA]
+Mancha | Primera acción general | Precauciones
+Café o té | Enjuagar con agua fría y luego lavar | Evitar calor hasta que la mancha salga
+Vino tinto | Absorber, enjuagar con agua fría | Pruebas previas en tejidos delicados
+Grasa o aceite | Cubrir con polvo absorbente (talco, almidón) unos minutos, cepillar y luego lavar | No usar agua caliente de entrada
+Sangre | Agua fría | El agua caliente fija la mancha
+Sudor / desodorante | Pretratar con detergente y lavar | El calor alto puede fijar residuos
+Maquillaje | Pretratar con detergente suave | Probar antes en zona discreta
+Tinta | Depende del tipo; probar en zona discreta | Frotar la extiende
+[FIN DE TABLA]
+Límite importante: Attelia ofrece orientación general. En prendas de seda, lana fina, cuero, gamuza o con valor sentimental o económico alto, debe recomendar tintorería profesional y advertir que ningún consejo casero garantiza resultado. Debe evitar sugerir mezclas de productos de limpieza (por ejemplo, combinar lejía con otros productos), por riesgo para la salud.
+5.9 Problemas frecuentes y soluciones
+[TABLA]
+Problema | Causa habitual | Qué hacer
+Encogimiento | Calor y agitación en lana y algodón | Prevención: agua fría y secado al aire. Con lana, a veces se recupera algo remojando con suavizante suave y estirando, sin garantía
+Bolitas (pilling) | Fricción en fibras cortas o mezclas | Quitapelusas o peine; lavar del revés y en delicado
+Deslave o decoloración | Detergente fuerte, sol, agua caliente | Lavar del revés, en frío; secar a la sombra
+Arrugas | Fibra (lino, algodón, viscosa) | Colgar al salir de la lavadora, vaporizar o planchar
+Olores persistentes | Humedad, sintéticos que retienen sudor | Ventilar, lavar pronto, secar completamente
+Brillo por planchado | Plancha demasiado caliente sin paño | Paño húmedo intermedio; prevención en lana y sintéticos
+Deformación en punto | Colgado mojado | Secar en plano y moldear a la forma original
+[FIN DE TABLA]
+5.10 Cuidado y sostenibilidad
+Lavar menos, a menor temperatura y con carga completa alarga la vida de la ropa y reduce el consumo de agua y energía. [SÍNTESIS] Prendas como jeans, abrigos y jerséis rara vez necesitan lavado después de cada uso: ventilarlas, cepillarlas y tratar manchas puntuales suele bastar.
+5.11 Preguntas frecuentes (cuidado)
+"¿Cada cuánto debo lavar unos jeans?" Respuesta modelo: "No hay una cifra única. Muchas personas los lavan cada varios usos, o cuando huelen o tienen manchas, y los lavan del revés y en frío para cuidar el color y la forma. Si son de denim crudo (raw), el criterio es aún más espaciado, pero depende del gusto."
+"Mi suéter de lana encogió, ¿se puede arreglar?" Respuesta modelo: "A veces se recupera algo remojándolo en agua tibia con un poco de suavizante o champú suave y estirándolo en plano sobre una toalla, pero no hay garantía. Si encogió mucho, la fibra pudo afieltrarse y el cambio es difícil de revertir."
+"¿Puedo lavar seda en casa?" Respuesta modelo: "Depende de la etiqueta. Si permite lavado a mano, usa agua fría, detergente suave y sin retorcer; seca a la sombra. Si pide limpieza en seco, mejor respetarlo, sobre todo si la prenda tiene forro, estructura o tintes sensibles."
+"No tengo etiqueta, ¿cómo lo lavo?" Respuesta modelo: "Sin etiqueta no puedo darte una instrucción segura. La opción más cautelosa suele ser lavado a mano en agua fría y detergente suave, probando antes en una zona discreta. Si la prenda es costosa o delicada, la tintorería es lo más seguro."
+5.12 Fuente y límites
+Base: University of Georgia Extension, recursos de cuidado y fundamentos textiles.
+Límites: la efectividad de los métodos para manchas depende del tejido, el tinte, el tiempo transcurrido y el producto. Attelia no debe garantizar resultados; debe ofrecer el método más cauteloso y sugerir ayuda profesional cuando el riesgo de daño sea alto.
+6. Lo clásico: la base atemporal del vestuario
+Lo clásico no es "aburrido": es el conjunto de prendas y proporciones que han sobrevivido décadas porque resuelven bien la forma, el color, la comodidad y la formalidad. Para Attelia, lo clásico es el suelo firme sobre el que se apoya cualquier tendencia. [SÍNTESIS]
+6.1 Prendas clásicas esenciales y por qué lo son
+[TABLA]
+Prenda | Qué la hace atemporal | Cómo se puede reinterpretar hoy
+Camisa blanca (popelina o oxford) | Cuello estructurado, versatilidad total | Oversize, con las mangas arremangadas y abierta sobre una camiseta
+Camiseta blanca o crema de algodón | Base neutra, comodidad | Cuello redondo grueso, corte relajado o ajustado
+Blazer (marino, negro o camel) | Estructura y formalidad en una sola pieza | Corte oversize, hombros marcados, con jeans
+Jeans de lavado azul medio u oscuro | Resistentes y neutros | Straight o wide leg, tiro alto
+Pantalón de vestir recto | Línea vertical, formalidad | Con pinzas y tiro alto, tela fluida
+Trench beige | Funcional, elegante, de todas las épocas | Largo midi, cinturón anudado
+Jersey de lana o cachemir | Calidez y refinamiento | Cuello alto fino, punto trenzado
+Vestido negro sencillo | Solución para cualquier ocasión | Largo midi, tirantes finos o cuello barco
+Falda midi (lápiz, plisada o recta) | Feminidad estructurada | Plisada, en satén, con botas
+Marinera (camiseta a rayas) | Estilo náutico, líneas horizontales | Con blazer o bajo un vestido
+Mocasines o zapatos planos de piel | Comodidad con formalidad | Con calcetines, suela gruesa
+Botines o botas de cuero | Duraderos y versátiles | Caña media, punta cuadrada
+Bolso estructurado de cuero | Funcional y duradero | Tamaño medio, líneas limpias
+[FIN DE TABLA]
+6.2 Tejidos y colores del clasicismo
+Tejidos: lana fría, algodón popelina, lino, cachemir, cuero, denim, tweed.
+Estampados: rayas, cuadros (príncipe de Gales, vichy), lunares pequeños, espiga, pata de gallo.
+Colores: marino, blanco roto, crema, camel, gris, negro, burdeos, verde bosque, marrón chocolate.
+6.3 Principios del vestir clásico
+Calidad sobre cantidad: menos prendas, mejor hechas.
+Ajuste impecable: un buen arreglo transforma una prenda sencilla. (Ver principio de proporción.)
+Paleta limitada y coherente: que casi todo combine con casi todo.
+Un solo toque personal: una joya, un pañuelo, un bolso con carácter.
+Discreción: el estilo se nota en el conjunto, no en un logotipo.
+6.4 Looks clásicos de referencia
+[EJEMPLO]
+Oficina elegante: blazer marino, camisa blanca, pantalón recto gris, mocasines negros.
+Fin de semana pulido: jersey crema, jeans rectos, trench beige, zapatos planos.
+Noche sencilla: vestido negro midi, chaqueta de lana, botines, pendientes pequeños.
+Estilo "francés" relajado: marinera, pantalón beige, mocasines, pañuelo anudado al cuello.
+7. Lo aesthetic: estéticas y tendencias actuales
+[TENDENCIA, con límites claros] Esta sección describe las estéticas que dominan o han dominado la conversación de moda en los últimos años. Está escrita con la información disponible hasta mediados de 2026. Las tendencias cambian muy rápido, así que Attelia debe presentarlas como referencias de estilo, no como obligaciones, y debe revisar fuentes actualizadas (pasarelas, semanas de la moda, medios especializados) cuando alguien pregunte por lo "último" o "lo que se lleva esta temporada".
+7.1 Qué es una "aesthetic"
+Una aesthetic es un paquete visual coherente: una paleta, unas siluetas, unas texturas y unas prendas ancla que juntas cuentan una misma historia. Las aesthetics circulan en redes sociales, se mezclan y se renuevan. Para Attelia, cada una se puede explicar con los mismos elementos y principios de las secciones 1 y 2: qué color, qué silueta, qué textura, qué punto focal.
+7.2 Estéticas principales
+1. Quiet luxury (lujo silencioso)
+Idea: elegancia sin logotipos; calidad que se nota en el tejido, el corte y el ajuste.
+Paleta: beige, crema, camel, gris, marino, chocolate. Armonía monocromática o análoga.
+Prendas ancla: jersey de cachemir, pantalón de lana fluido, camisa de popelina, abrigo largo recto, mocasines, bolso de cuero sin logotipo.
+Texturas: cachemir, lana fría, seda mate, cuero suave.
+Cómo se logra: siluetas limpias, proporciones cuidadas, accesorios mínimos. El ritmo se crea con la repetición de tonos tierra.
+2. Old money
+Idea: herencia clásica, estilo "de club": británica y preppy.
+Paleta: marino, crema, verde bosque, burdeos, camel.
+Prendas ancla: blazer con botones metálicos, chaleco de punto, polo, falda plisada, camisa oxford, mocasines, pañuelo de seda.
+Estampados: cuadros, rayas, espiga.
+Nota: se centra en la pulcritud; es la hermana más formal del quiet luxury.
+3. Clean girl / minimalismo pulido
+Idea: aspecto cuidado, fresco y sencillo.
+Paleta: blanco, beige, gris claro, negro.
+Prendas ancla: camiseta blanca, jeans rectos, blazer oversize, tops de punto fino, sandalias o zapatillas blancas.
+Detalles: joyería dorada fina, cabello recogido, estilo atemporal.
+4. Coquette
+Idea: feminidad delicada, romántica y juguetona.
+Paleta: rosa empolvado, blanco, crema, lavanda; baja intensidad.
+Prendas ancla: lazos, encaje, cuello Peter Pan, faldas con volantes, cárdigans cortos, bailarinas con lazo.
+Líneas y formas: curvas, volantes, mangas abullonadas.
+Textura: encaje, tul, punto fino, satén.
+5. Balletcore
+Idea: inspiración en el mundo de la danza clásica.
+Paleta: rosa pálido, blanco, gris perla, negro.
+Prendas ancla: top cruzado o wrap, falda de tul, bailarinas planas, cárdigan corto, calentadores, ropa de punto fino.
+Detalle clave: siluetas ceñidas arriba con volumen suave abajo.
+6. Y2K / nostalgia de los 2000
+Idea: guiño a la moda de finales de los noventa y principios de los 2000.
+Paleta: rosa, plata, tonos metálicos, celeste, colores vibrantes.
+Prendas ancla: jeans de tiro bajo, tops cortos, minifaldas, bolsos pequeños, gafas estrechas, brillos.
+Versión actual: combinar una pieza Y2K con básicos neutros para evitar el efecto disfraz.
+7. Boho / bohemio
+Idea: libertad, naturaleza y artesanía.
+Paleta: terracota, mostaza, marrón, verde oliva, crema.
+Prendas ancla: vestidos fluidos, blusas campesinas, faldas largas, chalecos de ganchillo, botas de ante, flecos, estampados florales.
+Textura: algodón, lino, ganchillo, ante.
+8. Gorpcore / técnico urbano
+Idea: ropa de montaña y exterior integrada en el día a día.
+Paleta: verde, gris, negro, naranja o amarillo de acento.
+Prendas ancla: cortavientos, chaquetas técnicas, forro polar, pantalón cargo, zapatillas de trekking, riñonera.
+Tejidos: nailon, poliéster técnico, forro polar.
+9. Dark academia
+Idea: aire literario y universitario, inspirado en la estética de bibliotecas y colegios históricos.
+Paleta: marrón, negro, verde oscuro, burdeos, gris.
+Prendas ancla: blazer de tweed, chaleco de punto, camisa blanca, falda plisada, pantalón de vestir, mocasines, abrigo largo.
+Estampados: cuadros, espiga, pata de gallo.
+10. Streetwear / urbano relajado
+Idea: comodidad, cultura urbana y piezas de silueta amplia.
+Paleta: variada; negros, grises, colores de contraste.
+Prendas ancla: sudaderas, pantalones anchos, cargo, zapatillas protagonistas, gorras, chaquetas bomber.
+Silueta: oversize, volumen en bloques.
+11. Minimalismo escandinavo
+Idea: limpieza, funcionalidad y paleta serena.
+Paleta: blanco, gris, negro, tonos pastel apagados.
+Prendas ancla: abrigos estructurados, jerséis de punto, pantalones rectos, calzado limpio.
+12. Eclecticismo / maximalismo
+Idea: mezclar estampados, colores y épocas con intención.
+Clave: un hilo conductor (paleta, escala o textura) para mantener la armonía.
+7.3 Cómo "traducir" una aesthetic a un armario real
+Attelia puede guiar este proceso en cinco pasos:
+Identificar la aesthetic que atrae a la persona (pedir referencias o palabras clave).
+Extraer la paleta y ver cuántos de esos colores ya existen en su armario.
+Elegir tres prendas ancla de esa estética (no hace falta comprar todo).
+Mezclar con básicos clásicos para que la aesthetic se vea cotidiana y no un disfraz.
+Ajustar a la ocasión: una aesthetic es un punto de partida, no un uniforme.
+[EJEMPLO: de clásico a aesthetic] Partiendo de un armario clásico (blazer marino, jeans rectos, camisa blanca, mocasines):
+Hacia quiet luxury: cambiar los jeans por un pantalón de lana crema y la camisa por una de popelina de buena calidad; sin logotipos.
+Hacia coquette: añadir un cárdigan rosa pálido, bailarinas con lazo y una cinta en el pelo, y cambiar los mocasines por zapatos más suaves.
+Hacia dark academia: sustituir el blazer marino por uno de tweed marrón, sumar un chaleco de punto y una falda plisada.
+Hacia gorpcore: mantener los jeans y la camisa y reemplazar el blazer por un cortavientos técnico, con zapatillas de trekking.
+7.4 Micro-tendencias que se repiten en varias estéticas
+[TENDENCIA] Elementos que aparecen con frecuencia en diversas aesthetics:
+Siluetas amplias (pantalones wide leg, blazers oversize), siempre con un punto de definición.
+Tonos tierra y neutros cálidos (chocolate, camel, crema, verde oliva).
+Burdeos y rojos profundos como color acento.
+Bailarinas, mocasines y zapatos planos como calzado protagonista.
+Capas (camisa sobre camiseta, chaleco sobre camisa, jersey sobre los hombros).
+Accesorios personales (pañuelos, lazos, joyas finas apiladas, bolsos de tamaño medio).
+Segunda mano y vintage como fuente de prendas con carácter.
+7.5 Preguntas frecuentes (aesthetic y tendencias)
+"¿Qué se lleva esta temporada?" Respuesta modelo: "Las tendencias cambian cada temporada y varían por país. Te puedo dar las constantes que llevan varios años (siluetas relajadas con un punto definido, tonos tierra, zapatos planos), pero para lo último conviene mirar fuentes recientes de pasarelas y prensa de moda. Si me dices tu clima y tus ocasiones, te armo algo que combine lo actual con lo que ya tienes."
+"¿Cómo me visto 'aesthetic' sin gastar mucho?" Respuesta modelo: "Empieza por la paleta, no por las prendas: si tu armario ya comparte tonos, todo combina. Luego elige dos o tres piezas ancla y busca segunda mano o básicos económicos. La estética se nota en la coherencia, no en el precio."
+"¿Puedo mezclar dos aesthetics?" Respuesta modelo: "Sí. Elige una como base (por ejemplo, quiet luxury) y toma de la otra un solo elemento (un lazo coquette, un cárdigan académico). Mantén una paleta común y así la mezcla se verá intencional."
+"¿Cómo evito que una tendencia se vea como disfraz?" Respuesta modelo: "Usa una sola pieza muy marcada y el resto sencillo. Si todo el look es una estética pura, puede verse de más; si es una pieza ancla con básicos, se siente natural."
+7.6 Fuente y límites
+Esta sección es una SÍNTESIS a partir de la observación general de la moda reciente y no de una fuente universitaria específica.
+Límites: las estéticas no tienen definiciones oficiales; cambian de nombre y de contenido con rapidez, y varían por región y comunidad. Attelia debe actualizar esta sección con fuentes recientes (semanas de la moda, medios de moda, tendencias locales) y evitar presentar nada como definitivo.
+8. Armario cápsula
+Un armario cápsula es una colección reducida de prendas versátiles que combinan entre sí para crear muchos conjuntos con pocas piezas. Es el punto de encuentro perfecto entre lo clásico (calidad, básicos) y lo aesthetic (paleta y coherencia). [SÍNTESIS]
+8.1 Principios
+Paleta cerrada: 2 o 3 neutros base + 1 o 2 colores de acento. Todo debe combinar con todo.
+Prendas versátiles: cada pieza debe poder usarse al menos en tres conjuntos distintos.
+Estilo de vida primero: el armario refleja lo que la persona hace de verdad (trabajo, estudio, clima, ocasiones).
+Calidad y ajuste: menos piezas, mejor elegidas y bien ajustadas.
+Revisión por temporada: se actualiza, no se acumula.
+8.2 Proceso de construcción
+Inventario: listar lo que ya existe y se usa.
+Definir estilo de vida: porcentaje aproximado de trabajo, estudio, ocio, eventos.
+Elegir la paleta (ver sección 3).
+Identificar huecos: qué falta para completar combinaciones.
+Comprar o conseguir de segunda mano solo lo que cierra huecos.
+Probar los conjuntos: comprobar que cada prenda nueva se combina con al menos tres.
+8.3 Ejemplo de cápsula base (aprox. 24 piezas, clima templado)
+Paleta: marino, crema, camel, gris; acentos en burdeos y verde oliva.
+[TABLA]
+Categoría | Piezas
+Partes de arriba (8) | Camiseta blanca, camiseta crema, camiseta de rayas, camisa blanca, camisa celeste, jersey crema, jersey gris, blusa burdeos
+Partes de abajo (5) | Jeans azul oscuro rectos, pantalón de vestir marino, pantalón beige, falda midi plisada gris, falda midi camel
+Capas (4) | Blazer marino, trench beige, cárdigan de punto camel, chaqueta vaquera
+Vestidos (2) | Vestido negro o marino midi, vestido camisero verde oliva
+Calzado (4) | Mocasines o planos de piel, zapatillas blancas, botines de cuero, sandalias neutras
+Accesorios (3) | Bolso estructurado, cinturón de cuero, pañuelo de seda o estampado
+[FIN DE TABLA]
+Combinatoria: con 8 partes de arriba y 5 de abajo hay 40 combinaciones básicas, antes de sumar capas, vestidos y calzado.
+8.4 Adaptar la cápsula
+Clima cálido: más lino y algodón, menos capas, sandalias; paleta con blancos y tonos arena.
+Clima frío: más punto de lana, abrigos largos, botas, bufandas; paleta con camel, gris, burdeos.
+Oficina formal: blazers, camisas, pantalones de vestir, zapatos cerrados.
+Estudiantes o look relajado: jeans, sudaderas de calidad, zapatillas limpias, chaqueta técnica.
+Presupuesto limitado: priorizar primero la prenda más usada (calzado, abrigo, jeans) y completar con segunda mano.
+8.5 Cápsula y aesthetic
+Una cápsula no impide seguir tendencias: se añaden dos o tres piezas de temporada a la base. Por ejemplo, sobre una base de quiet luxury se puede sumar un cárdigan coquette o unas bailarinas con lazo. Si la pieza nueva no se combina con la base, probablemente no es una buena compra.
+8.6 Preguntas frecuentes (cápsula)
+"¿Cuántas prendas debe tener mi armario cápsula?" Respuesta modelo: "No hay un número mágico. Muchas cápsulas parten de 20 a 40 piezas, sin contar ropa interior ni deportiva, pero lo importante es que cada una se use y combine. Si me cuentas tu rutina y tu clima, calculo una cifra más realista."
+"No tengo presupuesto, ¿por dónde empiezo?" Respuesta modelo: "Empieza por lo que ya tienes: identifica la paleta que más repites y qué prendas usas más. Luego completa solo con una pieza a la vez, empezando por la que te falta para armar más looks, y busca segunda mano o rebajas."
+"¿Y si me gustan muchos colores?" Respuesta modelo: "Funciona igual con otra paleta: elige una base de neutros y dos o tres colores favoritos que se lleven bien entre sí, por ejemplo análogos. La cápsula no obliga a que todo sea beige."
+8.7 Fuente y límites
+Sección de SÍNTESIS basada en prácticas comunes de asesoría de imagen y organización de armarios.
+Límites: el número de prendas, los colores y los estilos son orientativos; no existe un armario cápsula "correcto". Debe adaptarse a clima, cultura, trabajo, presupuesto y gustos personales.
+9. Códigos de vestimenta (dress codes)
+Un código de vestimenta es una convención que indica el nivel de formalidad esperado en un evento o entorno. Los nombres y detalles pueden variar según el país y la cultura, así que Attelia debe ofrecer la interpretación más común y recomendar confirmar con la invitación o el organizador si hay dudas. [SÍNTESIS]
+9.1 Escala de formalidad (de más a menos formal)
+[TABLA]
+Código | Idea | Para mujeres (ejemplos) | Para hombres (ejemplos)
+Etiqueta rigurosa / White tie | Máxima formalidad (galas, eventos oficiales) | Vestido de gala largo hasta el suelo, guantes opcionales | Frac, camisa de pechera, pajarita blanca
+Etiqueta / Black tie | Eventos nocturnos formales | Vestido largo o cóctel muy elegante | Esmoquin, camisa blanca, pajarita negra
+Black tie opcional | Formal, con algo de flexibilidad | Vestido largo o midi elegante | Esmoquin o traje oscuro con corbata
+Cóctel / Semiformal | Fiestas y bodas de tarde o noche | Vestido midi o corto elegante, tacones o zapato fino | Traje oscuro, camisa y corbata
+Formal de día / Elegante | Bodas de día, ceremonias | Vestido midi o conjunto de falda/pantalón | Traje claro o medio, corbata
+Business formal | Entornos corporativos tradicionales | Traje sastre, blusa, zapatos cerrados | Traje, camisa, corbata, zapatos de cordones
+Business casual / Smart casual | Oficinas relajadas, reuniones informales | Pantalón o falda con blusa y blazer; jersey fino | Pantalón de vestir, camisa sin corbata, blazer opcional
+Casual elegante | Cenas, reuniones sociales | Jeans oscuros con blusa y calzado cuidado | Chinos o jeans oscuros con camisa o polo
+Casual | Día a día | Jeans, camisetas, zapatillas | Jeans, camisetas, zapatillas
+[FIN DE TABLA]
+Atención: "smart casual" y "business casual" no significan lo mismo en todas partes; en algunos lugares incluye jeans oscuros y en otros no. Attelia debe preguntar el contexto concreto cuando la persona dude.
+9.2 Cómo aplicar los códigos con criterio
+Formalidad por capas: si dudas, vístete un nivel más formal; quitarse el blazer o la corbata es fácil, añadirlos no.
+Zapatos como indicador: zapatos cerrados y bien cuidados elevan cualquier conjunto.
+Tejidos y acabados: lana fría, seda y satén comunican formalidad; algodón grueso, denim y punto de sudadera, informalidad.
+Colores por ocasión: colores oscuros y neutros para ambientes formales; los colores y estampados llamativos se reservan a ocasiones sociales.
+Eventos concretos:
+Bodas: evitar el blanco, el marfil o cualquier tono que compita con la novia, salvo indicación expresa; revisar el código de la invitación y la hora del evento.
+Entrevistas de trabajo: un nivel por encima de la vestimenta habitual de la empresa; prendas impecables, colores sobrios.
+Funerales: tonos oscuros y sobrios; consultar las costumbres de la familia o la cultura.
+Eventos al aire libre: ajustar tejidos y calzado al clima y al terreno sin perder el nivel de formalidad.
+9.3 Los códigos y las aesthetics
+Las estéticas de la sección 7 se pueden adaptar a los códigos:
+Quiet luxury y old money funcionan muy bien en business formal y cóctel.
+Coquette y balletcore se adaptan mejor a casual elegante y eventos de día, elevando el tejido (satén, encaje fino).
+Gorpcore y streetwear encajan en casual; para smart casual se combina una pieza técnica con básicos clásicos (por ejemplo, un cortavientos ligero sobre pantalón de vestir).
+9.4 Ejemplos de conjuntos por código
+[EJEMPLO]
+Business formal (mujer): traje sastre marino, blusa de seda crema, zapatos de salón cerrados, bolso estructurado.
+Business casual: pantalón gris, jersey fino de cuello alto, blazer camel, mocasines.
+Cóctel: vestido midi burdeos, zapatos de tacón bajo, pendientes discretos, bolso de mano pequeño.
+Casual elegante: jeans oscuros rectos, camisa blanca, abrigo largo, botines.
+Black tie (hombre): esmoquin negro, camisa blanca, pajarita, zapatos de charol.
+9.5 Preguntas frecuentes (dress code)
+"La invitación dice 'cóctel'. ¿Qué me pongo?" Respuesta modelo: "Cóctel suele implicar un vestido midi o corto elegante (o un conjunto sofisticado) y zapatos arreglados; para hombres, traje oscuro. Si la boda es de día, prefiere colores más claros o medios; si es de noche, tonos más profundos. Cuéntame la hora, el lugar y la estación y te propongo opciones."
+"¿Puedo ir en jeans a una cena 'smart casual'?" Respuesta modelo: "Depende del lugar. Unos jeans oscuros, sin roturas y bien cortados, con camisa o blusa y calzado cuidado, suelen funcionar. Si el sitio es muy formal, es más seguro un pantalón de vestir. Consulta el restaurante si tienes dudas."
+"¿Qué me pongo para una entrevista?" Respuesta modelo: "Un nivel por encima del día a día de la empresa. Si no sabes cómo visten, opta por business casual con prendas impecables: blazer, pantalón o falda de vestir, zapatos cerrados y colores sobrios. Lo importante es sentirte cómoda y segura."
+9.6 Fuente y límites
+Sección de SÍNTESIS basada en convenciones sociales generales de vestimenta.
+Límites: los códigos dependen de la cultura, región, religión, empresa y evento. Attelia debe tratar sus definiciones como un punto de partida y animar a confirmar con quien organiza el evento.
+10. Cómo debe razonar Attelia: flujo de respuesta
+Esta sección convierte todo el documento en un método de trabajo para atender consultas de moda.
+10.1 Flujo general
+Entender la necesidad: ocasión, clima, presupuesto, prendas disponibles, estilo deseado, nivel de formalidad.
+Elegir el marco: ¿es una pregunta de diseño (secciones 1–2), color (3), tela (4), cuidado (5), estilo clásico (6), aesthetic (7), cápsula (8) o dress code (9)?
+Proponer con el porqué: recomendación + razón visual o práctica (por ejemplo, "esta línea vertical alarga").
+Dar alternativas: una versión clásica y una versión más aesthetic.
+Señalar límites: si algo depende de la etiqueta, la cultura o el gusto, decirlo.
+Cerrar con una pregunta útil (una sola) para afinar.
+10.2 Plantilla de respuesta de outfit
+Look propuesto: prendas concretas (tipo, color, tejido). Por qué funciona: elemento o principio de diseño aplicado (color, proporción, punto focal). Versión clásica / versión aesthetic: dos variantes. Cuidado rápido: una línea sobre el tejido principal. Límites o alternativas: qué cambiar si el clima, la ocasión o el presupuesto varían.
+10.3 Ejemplo completo de razonamiento
+Consulta: "Tengo una cena casual con amigos, hace fresco y quiero verme arreglada pero sin esforzarme demasiado. Tengo jeans oscuros, camisa blanca, blazer negro y botines."
+Respuesta modelo:
+Look propuesto: jeans oscuros rectos, camisa blanca de algodón por fuera, blazer negro, botines de cuero y un bolso pequeño. Un pañuelo de seda al cuello o en el bolso aporta el toque personal.
+Por qué funciona: el contraste de valor (blanco y negro) crea un look gráfico y limpio; los jeans oscuros bajan la formalidad del blazer, lo que lo hace "arreglado pero relajado". La camisa por fuera y el blazer dan una silueta recta; si quieres definir cintura, puedes anudarla o meter solo la parte delantera.
+Versión clásica: pañuelo en tonos marino y crema, joyería dorada discreta. Versión aesthetic (quiet luxury o clean girl): sustituye el pañuelo por un solo accesorio protagonista (bolso de cuero estructurado) y mantén todo lo demás sin detalles.
+Cuidado rápido: el algodón de la camisa se arruga; sácala de la lavadora y cuélgala para planchar menos.
+Alternativa si hace mucho frío: añade un jersey fino de cuello alto bajo la camisa o un abrigo largo sobre el blazer.
+¿Prefieres un look más cálido (tonos camel y marrón) o te quedas con la paleta blanco y negro?
+10.4 Qué NO debe hacer Attelia
+No emitir juicios sobre el cuerpo ni sugerir que alguien "debe disimular" algo.
+No afirmar que una tendencia es "la" tendencia sin verificarla.
+No dar instrucciones de cuidado como definitivas si no hay etiqueta.
+No garantizar que una colorimetría o una combinación "siempre" favorezca.
+No copiar texto literal de las fuentes: debe explicar con sus propias palabras y citar la fuente cuando corresponda.
+No mezclar productos de limpieza ni sugerir procedimientos que supongan riesgo para la persona o la prenda.
+11. Glosario esencial
+[TABLA]
+Término | Definición breve
+Tono / matiz | Familia de color (rojo, azul, verde...)
+Valor | Qué tan claro u oscuro es un color
+Intensidad / croma | Pureza o viveza de un color
+Monocromático | Un solo tono en distintos valores
+Análogo | Tonos vecinos en la rueda de color
+Complementario | Tonos opuestos en la rueda de color
+Subtono | Matiz de fondo de la piel (cálido, frío, neutro)
+Silueta | Contorno exterior del conjunto
+Proporción | Relación de tamaños entre las partes
+Punto focal | Zona a la que se dirige la mirada primero
+Caída (drape) | Cómo cae y se mueve una tela
+Pilling (bolitas) | Pelusas que se forman por fricción
+Fibra | Materia prima del tejido (algodón, lana, poliéster...)
+Mezcla | Tela que combina dos o más fibras
+Armario cápsula | Conjunto reducido y versátil de prendas
+Oversize | Prenda de corte amplio a propósito
+Wide leg | Pantalón de pierna ancha
+Straight | Corte recto
+Quiet luxury | Elegancia discreta, sin logotipos
+Prenda ancla | Pieza principal alrededor de la cual se arma el look
+[FIN DE TABLA]
+12. Fuentes y notas de uso
+[TABLA]
+Fuente | Institución | Uso en este documento | Enlace
+Elements of Design | Utah State University Extension | Secciones 1 (y base de 3) | https://extension.usu.edu/research/elements-of-design.pdf
+Principles of Design | Utah State University Extension | Sección 2 | https://extension.usu.edu/research/principles-of-design
+Textile Basics | University of Georgia Extension | Secciones 4 y 5 | https://site.extension.uga.edu/textiles/
+Understand Your Fibers | University of Georgia Extension | Sección 4 | https://site.extension.uga.edu/textiles/textile-basics/understand-your-fibers/
+[FIN DE TABLA]
+Notas importantes
+Todo el contenido está reexpresado y ampliado en español; no son citas literales de las universidades. Lo marcado como [SÍNTESIS], [EJEMPLO] o [TENDENCIA] es elaboración propia y no debe atribuirse a las instituciones.
+Antes de publicar el agente, conviene revisar los recursos originales para verificar y enriquecer cada sección, sobre todo la de fibras y cuidado, donde los detalles técnicos importan.
+La sección 7 (aesthetics y tendencias) debe actualizarse con frecuencia con fuentes recientes.
+Próximos volúmenes sugeridos: guía por tipo de cuerpo y ajuste (sin juicios), moda por clima y regiones, accesorios y joyería, calzado, moda sostenible y segunda mano, y una biblioteca de outfits por ocasión.

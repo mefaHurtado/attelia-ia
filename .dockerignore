@@ -1,0 +1,17 @@
+.git
+.github
+**/__pycache__
+**/.pytest_cache
+**/.venv
+**/node_modules
+**/dist
+**/.cache
+**/*:Zone.Identifier
+.env
+.env.*
+!.env.example
+data
+backend/data
+backend/tests
+**/*.pyc
+**/*.bak
